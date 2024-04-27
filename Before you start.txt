@@ -1,0 +1,4 @@
+Due to size limitations, we have been unable to include the Godot test application inside the submission zip or inside the github repo, however, we have uploaded the same submission with the test application here: https://drive.google.com/drive/folders/1XVKE-_PJJ4vF29R3wRUKNwhezWwqOnB5?usp=sharing and the test application can also be downloaded directly from here: https://github.com/godotengine/godot/releases/download/4.2.2-stable/Godot_v4.2.2-stable_mono_win64.zip
+
+Please note: To run the Whitebox testing, you need to build the Godot Engine from the source code(instructions found inside the WB_Testing.zip).
+Building from source Godot instructions: https://docs.godotengine.org/en/stable/contributing/development/compiling/compiling_with_dotnet.html#doc-compiling-with-dotnet

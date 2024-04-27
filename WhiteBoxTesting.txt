@@ -1,0 +1,1 @@
+To run the WhiteBox Tests, extract the WB_Testing.zip and follow the instructions within. However, please ensure that you build the godot engine from source as mentioned in the instructions otherwise, the engine source code will not be available.

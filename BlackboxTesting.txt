@@ -1,0 +1,1 @@
+To run the BlackBox Tests, extract the EPs.zip and follow the instructions within. 
